@@ -142,6 +142,11 @@
 				<note priority="1" from="description">Текст отображаемый по умолчанию в поле для поиска. </note>
 				<note priority="1" from="meaning">Поиск по задачам.</note>
             </trans-unit>
+		<trans-unit id="7711111" approved="no">
+                <source xml:space="preserve">Тестовый поиск_222</source>
+				<note priority="1" from="description">Текст отображаемый по умолчанию в поле для поиска. </note>
+				<note priority="1" from="meaning">Поиск по задачам.</note>
+            </trans-unit>
         </body>
     </file>
 </xliff>
