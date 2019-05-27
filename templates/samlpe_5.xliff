@@ -119,7 +119,7 @@
 				<note priority="1" from="description">Текст отображаемый по умолчанию в поле для поиска. </note>
 				<note priority="1" from="meaning">Поиск по задачам.</note>
             </trans-unit>
-		<trans-unit id="777778" approved="no">
+		<trans-unit id="77777345" approved="no">
                 <source xml:space="preserve">6. Перемести реализацию метода getStringDataList() в подходящий класс. Учти, что метод getData() находится не в классе Solution.
 - Метод getStringDataList() должен быть перенесен в класс Model.
 - Метод getStringDataList() должен остаться публичным.
