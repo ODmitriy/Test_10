@@ -112,7 +112,11 @@
 - Метод getStringDataList() должен остаться публичным.
 - Метод getStringDataList() должен сохранить свое поведение.
 - Метод getStringDataList() должен вызывать метод getData() у сервиса.</source>
-        <target>6. The UndoMenuListener class must be in a separate file. - Be sure that the UndoMenuListener class is created in a separate file. - The UndoMenuListener class must be in the listeners package. - The UndoMenuListener class must implement the MenuListener interface. - The UndoMenuListener class must have an UndoMenuListener(View view, JMenuItem undoMenuItem, JMenuItem redoMenuItem) constructor.</target>
+        <target>6. The UndoMenuListener class must be in a separate file. 
+- Be sure that the UndoMenuListener class is created in a separate file.
+- The UndoMenuListener class must be in the listeners package.
+- The UndoMenuListener class must implement the MenuListener interface.
+- The UndoMenuListener class must have an UndoMenuListener(View view, JMenuItem undoMenuItem, JMenuItem redoMenuItem) constructor.</target>
         <note priority="1" from="description">Текст отображаемый по умолчанию в поле для поиска. </note>
         <note priority="1" from="meaning">Поиск по задачам.</note>
       </trans-unit>
