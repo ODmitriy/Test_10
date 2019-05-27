@@ -29,11 +29,13 @@
       </trans-unit>
       <trans-unit id="Section">
         <source xml:space="preserve">Все задачи</source>
+        <target>фвыапфвыарп</target>
         <note priority="1" from="description">Название раздела</note>
         <note priority="1" from="meaning">Все задачи курса (1200шт.). При нажатии показываются все задачи курса.</note>
       </trans-unit>
       <trans-unit id="651">
         <source xml:space="preserve">Задачи</source>
+        <target>яапфвап</target>
         <note priority="1" from="description">Заголовок страницы. Множественное число</note>
         <note priority="1" from="meaning">Данный заголовок отображается при выборе пользователем списка задач (например пункта Мои задачи, Все задачи или Нерешенные задачи)</note>
       </trans-unit>
@@ -116,11 +118,7 @@
 - Метод getStringDataList() должен остаться публичным.
 - Метод getStringDataList() должен сохранить свое поведение.
 - Метод getStringDataList() должен вызывать метод getData() у сервиса.</source>
-        <target>6. The UndoMenuListener class must be in a separate file. 
-- Be sure that the UndoMenuListener class is created in a separate file.
-- The UndoMenuListener class must be in the listeners package.
-- The UndoMenuListener class must implement the MenuListener interface.
-- The UndoMenuListener class must have an UndoMenuListener(View view, JMenuItem undoMenuItem, JMenuItem redoMenuItem) constructor.</target>
+        <target>6. The UndoMenuListener class must be in a separate file. - Be sure that the UndoMenuListener class is created in a separate file. - The UndoMenuListener class must be in the listeners package. - The UndoMenuListener class must implement the MenuListener interface. - The UndoMenuListener class must have an UndoMenuListener(View view, JMenuItem undoMenuItem, JMenuItem redoMenuItem) constructor.</target>
         <note priority="1" from="description">Текст отображаемый по умолчанию в поле для поиска. </note>
         <note priority="1" from="meaning">Поиск по задачам.</note>
       </trans-unit>
