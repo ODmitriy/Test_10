@@ -10,10 +10,7 @@
                 <source xml:space="preserve">Страница "Задачи"</source>
                 <target state="needs-translation" xml:space="preserve"></target>
             </trans-unit>
-		<trans-unit id="HeHEHEHEH">
-                <source xml:space="preserve">Страница "ЗадАЧИЧИЧИЧИЧИЧИЧ"</source>
-                <target state="needs-translation" xml:space="preserve"></target>
-            </trans-unit>
+		
 		<trans-unit id="right now">
                 <source xml:space="preserve">Предварительно сохранил файл</source>
                 <target state="needs-translation" xml:space="preserve"></target>
